@@ -1,6 +1,8 @@
 site_name: My Docs
+site_url: 'https://skyshine102.github.io/mkdocs_practice/'
 theme:
   name: material
+  custom_dir: overrides
 
 extra:
   version:
